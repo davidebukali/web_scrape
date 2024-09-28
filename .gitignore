@@ -1,0 +1,5 @@
+/env
+/backup
+/.snapshots
+yellow_ug_cache.sqlite
+yellowug.xlsx
